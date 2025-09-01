@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form one</title>
+    <style>
+        body
+        { 
+            background-color: #414141;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Forms in HTML</h1>
+    <form action="url" method="GET" accept-charset="UTF-8" autocomplete="off" enctype="">
+        <label for="fname">First Name:</label>
+        <input type="text" placeholder="Enter your first name" name="" value="rima" id="fname">
+        <input type="reset" value="Reset">
+        <label for="lname">Last Name:</label>
+        <input type="text" placeholder="Enter your last name" name="" id="lname">
+        <br>
+
+        <label for="fname">Password:</label>
+        <input type="password" placeholder="Enter your password" name="" id="">
+        <br>
+
+        <label for="fname">Week:</label>
+        <input type="week" name="" id="">
+        <br>
+//Tapu here you write the wrong code , you not define the id here that's why its give the error like this , but now its work properly .
+                <label for="editor">Select your editor:</label>
+                 <select name="editors" id="editor">
+            <option value="vs code">vscode</option>
+            <option value="subline">subline</option>
+        </select>
+
+
+        <label for="editor">Choose your editor:</label>
+        <input list="editors" name="editor">
+        <datalist id="editors">
+            <option value="vscode">
+            <option value="subline">
+        </datalist>
+        <br>
+
+        <input type="hidden" name="">
+
+        <button type="submit">OK</button>
+        
+
+    </form>
+</body>
+</html>

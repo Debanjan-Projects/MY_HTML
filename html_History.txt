@@ -1,0 +1,38 @@
+//<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+
+///here we discuss about html <head> </head>
+
+//head section known as a meta data section.
+//what is meta data .. 
+//data ke bare mein data known as a meta data.
+//jaishe .apka data kitne size ke hain kab create huya tha kab modify huya tha .
+//data ke bare mein information hota hain .. ishi tara hamare html file ke andar bohot sare data hota hain.
+
+// page kiu banaya geya hain.kisne banaya , author konn ,kinte zoom in or out hoga .all information are store in the meta data ..that is known as head ..
+
+
+HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <search>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+
+
+
+
+//uses of all this tags ..
+Here's a one-line summary describing the purpose of each common HTML tag you've listed:
+
+`<head>` defines metadata, `<title>` sets the page title, `<body>` contains visible content, `<header>` holds introductory content, `<footer>` defines footer info, `<article>` represents self-contained content, `<section>` groups related content, `<p>` is a paragraph, `<div>` is a generic container, `<span>` is inline container, `<img>` embeds an image, `<aside>` is side content, `<audio>` embeds sound, `<canvas>` renders graphics, `<datalist>` provides input options, `<details>` shows/hides info, `<embed>` embeds external content, `<nav>` defines navigation links, `<search>` (non-standard) represents a search section, `<output>` displays calculation results, `<progress>` shows task progress, `<video>` embeds video, `<ul>` is an unordered list, `<ol>` is an ordered list, `<li>` is a list item.
+
+
+
+
